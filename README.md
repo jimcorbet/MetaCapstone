@@ -1,12 +1,8 @@
 # Little Lemon :lemon:
 
-Welcome to the Little Lemon Restaurant website repository. This project was created as a part of the Meta Frontend Developer course. It's built using React and offers a stylish interface for users who want to explore the restaurant's menu and make reservations.
+Greetings and thank you for visiting the repository for the Little Lemon Restaurant’s web portal. This repository houses a project that is an integral component of the Meta Frontend Developer curriculum. Crafted with React, this project presents an elegant user interface designed for patrons to peruse the culinary offerings and secure table reservations at Little Lemon.
 
 ![Website Preview](./src/assets/preview.png)
-
-## Live Preview
-
-Check out the live version of the website! [View Live Demo](https://littlelemon.leanczo.vercel.app/)
 
 ## Features
 
